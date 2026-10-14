@@ -44,9 +44,12 @@
     
 }
 .main{
-    background-color: black;
+    background-image: url(hero_new_person_no_text.png);
     width: 100%;
     padding: 30px;
+    background-position: center;
+    background-size: cover;
+
 }
 .body{
     color: white;
