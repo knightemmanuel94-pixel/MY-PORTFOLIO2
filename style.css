@@ -16,10 +16,7 @@
     color: white;
     font-weight: 900;
 }
-.me a.active {
-    color: orangered;
-    border-bottom: 2px solid orangered;
-}
+
     .me a:hover {
         color: blue;
         border-bottom: 2px solid orangered;
@@ -44,7 +41,7 @@
     border-radius: 5px;
     margin-left: 10px;
     font-weight: 900;
-    color: black
+    color: black;
     
 }
 .main{
@@ -54,6 +51,9 @@
     background-position: center;
     background-size: cover;
 
+}
+.fa-brands-up-right-from-square{
+    color: white;
 }
 .body{
     color: white;
@@ -71,6 +71,7 @@ h6{
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
+    margin-right: 40px;
 }
 
 .btn2:hover{
@@ -92,4 +93,15 @@ h6{
 }
 .fa-css3-alt{
     color: blue;
+}
+.bb{
+    margin-top: 40px;
+}
+html,body{
+    background-color: black;
+    color: white;
+    min-height: 100%;
+}
+.main2{
+    margin-top: 20px;
 }
